@@ -1,0 +1,10 @@
+h1, p {
+  font-family: Lato;
+}
+.disable{
+  pointer-events: none;
+   background:#FF8673
+}
+button{
+  background: #B5F36D
+}
